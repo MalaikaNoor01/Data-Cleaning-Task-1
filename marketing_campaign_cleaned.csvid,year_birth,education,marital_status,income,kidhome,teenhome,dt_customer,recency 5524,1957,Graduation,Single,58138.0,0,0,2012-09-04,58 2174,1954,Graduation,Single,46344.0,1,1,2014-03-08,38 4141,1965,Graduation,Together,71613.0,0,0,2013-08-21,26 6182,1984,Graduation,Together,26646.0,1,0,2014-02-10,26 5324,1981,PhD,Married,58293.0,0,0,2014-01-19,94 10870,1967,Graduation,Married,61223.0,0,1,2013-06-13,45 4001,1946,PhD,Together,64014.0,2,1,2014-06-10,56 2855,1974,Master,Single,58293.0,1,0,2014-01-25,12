@@ -1,0 +1,9 @@
+id,year_birth,education,marital_status,income,kidhome,teenhome,dt_customer,recency
+5524,1957,Graduation,Single,58138.0,0,0,2012-09-04,58
+2174,1954,Graduation,Single,46344.0,1,1,2014-03-08,38
+4141,1965,Graduation,Together,71613.0,0,0,2013-08-21,26
+6182,1984,Graduation,Together,26646.0,1,0,2014-02-10,26
+5324,1981,PhD,Married,58293.0,0,0,2014-01-19,94
+10870,1967,Graduation,Married,61223.0,0,1,2013-06-13,45
+4001,1946,PhD,Together,64014.0,2,1,2014-06-10,56
+2855,1974,Master,Single,58293.0,1,0,2014-01-25,12
