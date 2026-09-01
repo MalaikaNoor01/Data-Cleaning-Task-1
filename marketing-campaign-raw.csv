@@ -1,0 +1,10 @@
+ID,Year_Birth,Education,Marital_Status, Income ,Kidhome,Teenhome,Dt_Customer,Recency
+5524,1957,Graduation,Single,58138.0,0,0,04-09-2012,58
+2174,1954,Graduation,Single,46344.0,1,1,08-03-2014,38
+4141,1965,Graduation,Together,71613.0,0,0,21-08-2013,26
+6182,1984,Graduation,Together,26646.0,1,0,10-02-2014,26
+5324,1981,PhD,Married,58293.0,0,0,19-01-2014,94
+6182,1984,Graduation,Together,26646.0,1,0,10-02-2014,26
+10870,1967,Graduation,Married,61223.0,0,1,13-06-2013,45
+4001,1946,PhD,Together,64014.0,2,1,10-06-2014,56
+2855,1974,Master,Single,,1,0,25-01-2014,12
